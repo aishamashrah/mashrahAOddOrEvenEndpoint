@@ -4,6 +4,7 @@ namespace mashrahAOddOrEvenEndpoint.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+
 public class NewController : ControllerBase
 {
     [HttpGet]
